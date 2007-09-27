@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Kill Parents
+Plugin Name: Remove Parents
 Plugin URI: http://wordpress.org/#
-Description: Kills parent directories from showing in permalinks.
+Description: Remove parent directories & "category" from permalinks.
 Author: Alekc
 Version: 1.0
 Author URI: http://blog.alekc.org

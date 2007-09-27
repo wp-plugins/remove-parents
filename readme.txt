@@ -4,7 +4,7 @@ Donate link:
 Tags: parent, category, child, permanent
 Requires at least: 2.3
 Tested up to: 2.3
-Stable tag: 4.3
+Stable tag: 1.0
 
 Remove Parents is a tiny plugin which remove "category" and parent categories from permalink.
 
@@ -23,9 +23,9 @@ In this case Site 3 originally have been part of "Work in progress", and on job 
 
 So if you install this plugin your link will be transformed in this way:
 
-http://domain.com/parent_category/child_directory/post_name => http://domain.com/child_directory/post_name
-http://domain.com/category/parent_category => http://domain.com/parent_category
-http://domain.com/category/parent_category/child_directory => http://domain.com/parent_category/child_directory
+domain.com/parent_category/child_directory/post_name => domain.com/child_directory/post_name
+domain.com/category/parent_category => domain.com/parent_category
+domain.com/category/parent_category/child_directory => domain.com/parent_category/child_directory
 
 == Installation ==
 
